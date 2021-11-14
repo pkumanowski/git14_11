@@ -1,18 +1,13 @@
-# Project Tester 
-> Projekt testowy z gita
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Tester
+> Cwiczenia z gita.
+> Live demo [widoczny_link](https://www.wp.pl). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
+## Spis tresci
+* [Informacje ogolne o projekcie](#general-information)
+* [Wykorzystane technologie](#technologies-used)
+* [Ficzery](#features)
+* [Zrzuty ekranu](#screenshots)
+* [Kontakt z tworca skryptu](#contact)
 <!-- * [License](#license) -->
 
 
